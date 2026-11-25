@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 11,
+      "content": "Опять практическая по техмеху",
+      "created_at": "2026-11-25T08:26:45.522093+00:00",
+      "username": "aimatov",
+      "display_name": "Alexandr Aimatov",
+      "likes_count": 0
+    },
+    {
+      "id": 10,
+      "content": "[Сфера 24ч] Добро пожаловать в SFERA!",
+      "created_at": "2026-11-24T19:06:06.633891+00:00",
+      "username": "aimatov",
+      "display_name": "Alexandr Aimatov",
+      "likes_count": 3
+    },
+    {
+      "id": 8,
+      "content": "Почему я синяя",
+      "created_at": "2026-11-24T18:39:58.427215+00:00",
+      "username": "sobakissali",
+      "display_name": "Юля",
+      "likes_count": 3
+    },
+    {
+      "id": 7,
+      "content": "Где читать гей фанфики",
+      "created_at": "2026-11-24T18:39:48.856523+00:00",
+      "username": "sobakissali",
+      "display_name": "Юля",
+      "likes_count": 3
+    },
+    {
+      "id": 6,
+      "content": "[Сфера 24ч] толстый ты тут?",
+      "created_at": "2026-11-24T18:37:18.094147+00:00",
+      "username": "durov",
+      "display_name": "daimer",
+      "likes_count": 2
+    },
+    {
+      "id": 5,
+      "content": "[Сфера 24ч] Жду когда дадут Sfera Premium день 1🌚",
+      "created_at": "2026-11-24T18:33:07.638035+00:00",
+      "username": "choco_pie",
+      "display_name": "Сисечки",
+      "likes_count": 3
+    },
+    {
+      "id": 3,
+      "content": "Я самый пьяный\nХрумки газява связь",
+      "created_at": "2026-11-24T18:11:07.805902+00:00",
+      "username": "choco_pie",
+      "display_name": "Сисечки",
+      "likes_count": 6
+    },
+    {
+      "id": 2,
+      "content": "я самый толстый",
+      "created_at": "2026-11-24T18:07:52.593945+00:00",
+      "username": "durov",
+      "display_name": "daimer",
+      "likes_count": 5
+    },
+    {
+      "id": 1,
+      "content": "Привет как вам Sfera?",
+      "created_at": "2026-11-24T17:38:06.584859+00:00",
+      "username": "aimatov",
+      "display_name": "Alexandr Aimatov",
+      "likes_count": 6
+    }
+  ]
+}
